@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Slideshare Clone",
+    "desc": "Made clone of slide share using htmlcss and js",
+    "image": "slideshare.jpeg",
+    "isd":"telsa1",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Tesla Clone",
+    "desc": "Made clone of tesla website using html css and js.",
+    "image": "Tesla.png",
+    "isd":"telsa",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+  
+]
